@@ -1,0 +1,19 @@
+body {
+  background-color: #373435;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100vw;
+  padding-top: 80px;
+}
+svg {
+  background-color: white;
+}
+
+.tooltip {
+  position: absolute;
+}
+.first {
+  z-index: 100;
+}
